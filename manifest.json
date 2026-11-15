@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "Nocturne Navy Theme",
+  "version": "1.0.0",
+  "description": "A deep navy Chrome theme with periwinkle, lilac and a cream New Tab Page.",
+  "icons": {
+    "128": "logo/logo.png"
+  },
+  "theme": {
+    "colors": {
+      "frame":                        [0, 16, 91],
+      "frame_inactive":               [10, 26, 102],
+      "toolbar":                      [29, 33, 112],
+      "tab_text":                     [252, 249, 236],
+      "bookmark_text":                [252, 249, 236],
+      "ntp_background":               [252, 249, 236],
+      "ntp_text":                     [0, 16, 91],
+      "ntp_link":                     [63, 64, 144],
+      "ntp_header":                   [201, 181, 224],
+      "button_background":            [201, 181, 224],
+      "button_background_secondary":  [96, 97, 182],
+      "omnibox_background":           [252, 249, 236],
+      "toolbar_button_icon":          [252, 249, 236]
+    },
+    "properties": {
+      "ntp_button_background":    [96, 97, 182],
+      "ntp_button_hover":         [79, 80, 164],
+      "ntp_logo_alternate":       1,
+      "ntp_single_row_shortcuts": true
+    },
+    "color_scheme": "light",
+    "default_color_scheme": "light"
+  }
+}
