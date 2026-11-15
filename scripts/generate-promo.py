@@ -22,7 +22,7 @@ OUT_DIR = "store-assets/promo"
 INK = (34, 48, 58)
 WHITE = (255, 255, 255)
 SHELL = (255, 253, 246)
-CAPTION = (42, 47, 128)                    # lighter navy for the caption block
+CAPTION = (161, 148, 197)                  # real screenshot: light lilac panel
 
 with open("manifest.json", "r", encoding="utf-8") as f:
     _m = json.load(f)
@@ -132,7 +132,7 @@ def compose_window(size=(1400, 560)):
                fill=lerp(CAPTION, INK_T, 0.18), width=1)
     for i, glyph in enumerate(("\u2212", "\u25a1", "\u00d7")):
         d.text((cap_x0 + cap_w / 6 + i * cap_w / 3, wy0 + 10), glyph,
-               font=font(12), fill=SHELL, anchor="ma")
+               font=font(12), fill=INK_T, anchor="ma")
     # toolbar band with the omnibox pill
     d.rectangle([wx0, wy0 + 34, wx1, wy0 + 74], fill=TOOLBAR)
     d.rounded_rectangle([wx0 + 16, wy0 + 42, wx1 - 16, wy0 + 68], radius=13, fill=WHITE)

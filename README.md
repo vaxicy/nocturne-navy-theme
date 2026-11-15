@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vaxicy/nocturne-navy-theme/main/store-assets/promo/1400x560.png" alt="Nocturne Navy Theme promo" width="700">
+  <img src="https://raw.githubusercontent.com/vaxicy/nocturne-navy-theme/main/store-assets/promo/1400x560.png?v=2" alt="Nocturne Navy Theme promo" width="700">
 </p>
 
 ## Overview
@@ -53,7 +53,7 @@ The palette is one navy→indigo→lilac ramp plus a cream neutral, so the theme
 
 | Browser | Palette |
 |:-:|:-:|
-| <img src="https://raw.githubusercontent.com/vaxicy/nocturne-navy-theme/main/store-assets/screenshots/en/screenshot-1-browser.png" width="420" alt="Nocturne Navy New Tab"> | <img src="https://raw.githubusercontent.com/vaxicy/nocturne-navy-theme/main/store-assets/screenshots/en/screenshot-2-palette.png" width="420" alt="Nocturne Navy palette"> |
+| <img src="https://raw.githubusercontent.com/vaxicy/nocturne-navy-theme/main/store-assets/screenshots/en/screenshot-1-browser.png?v=2" width="420" alt="Nocturne Navy New Tab"> | <img src="https://raw.githubusercontent.com/vaxicy/nocturne-navy-theme/main/store-assets/screenshots/en/screenshot-2-palette.png?v=2" width="420" alt="Nocturne Navy palette"> |
 
 ## Installation
 
